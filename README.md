@@ -11,7 +11,7 @@
 
 - [김동겸](https://github.com/Donggyeom)
 - [김현식](https://github.com/khs00031)
-- [나현웅](Github 아이디 추가해줘!)
+- [나현웅](https://github.com/nhwjik)
 - [전임송](https://github.com/imsongj)
 - [주창훈](https://github.com/jeno8522)
 

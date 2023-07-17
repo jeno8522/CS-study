@@ -23,7 +23,6 @@
 ## 참고 링크
 
 - [CS 주제 리스트](https://gyoogle.dev/blog/)
-- [CS 주제 마인드맵](https://gitmind.com/app/docs/mgackf37)
 - [가등 면접 질문 리스트](https://garden1500.tistory.com/11)
 - [민최 면접 질문 리스트](https://minchoi0912.tistory.com/93)
 - [Naver D2](https://d2.naver.com/home)

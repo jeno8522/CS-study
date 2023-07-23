@@ -23,7 +23,7 @@
 
 ## 3. 객체 지향 vs 절차 지향
 
-![Untitled](OOP%206398d54a059e45eeaa49e2dd3538f85d/Untitled.png)
+![Untitled](Untitled.png)
 
 ## 4. OOP의 4가지 특징
 

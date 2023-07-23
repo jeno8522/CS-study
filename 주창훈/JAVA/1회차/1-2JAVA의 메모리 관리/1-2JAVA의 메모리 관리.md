@@ -26,21 +26,21 @@
 
 tip) primitive type vs reference type
 
-![Untitled](JAVA%E1%84%8B%E1%85%B4%20%E1%84%86%E1%85%A6%E1%84%86%E1%85%A9%E1%84%85%E1%85%B5%20%E1%84%80%E1%85%AA%E1%86%AB%E1%84%85%E1%85%B5%20e0f18cf18a1f4a52beb8319a825d6af1/Untitled.png)
+![Untitled](Untitled.png)[
 
 ## 4. 가비지 컬렉
 
-![Untitled](JAVA%E1%84%8B%E1%85%B4%20%E1%84%86%E1%85%A6%E1%84%86%E1%85%A9%E1%84%85%E1%85%B5%20%E1%84%80%E1%85%AA%E1%86%AB%E1%84%85%E1%85%B5%20e0f18cf18a1f4a52beb8319a825d6af1/Untitled%201.png)
+![Untitled](Untitled%201.png)
 
 - method area, stack area에서 참조하고 있는 heap area의 객체들 중 어디서도 참조되고 있지 않은 객체 (Unreachable 한 객체)를 가비지 컬렉터가 제거
 
-![Untitled](JAVA%E1%84%8B%E1%85%B4%20%E1%84%86%E1%85%A6%E1%84%86%E1%85%A9%E1%84%85%E1%85%B5%20%E1%84%80%E1%85%AA%E1%86%AB%E1%84%85%E1%85%B5%20e0f18cf18a1f4a52beb8319a825d6af1/Untitled%202.png)
+![Untitled](Untitled%202.png)
 
 - root로 부터 연결된 객체들을 그래프 순회로 찾고, 연결안된 객체를 제거, heap의 시작주소로 살아남은 객체들을 모아 압축
 
 - heap 영역의 구조
 
-![Untitled](JAVA%E1%84%8B%E1%85%B4%20%E1%84%86%E1%85%A6%E1%84%86%E1%85%A9%E1%84%85%E1%85%B5%20%E1%84%80%E1%85%AA%E1%86%AB%E1%84%85%E1%85%B5%20e0f18cf18a1f4a52beb8319a825d6af1/Untitled%203.png)
+![Untitled](Untitled%203.png)
 
 ## 5. 가비지 컬렉션 동작 과정
 

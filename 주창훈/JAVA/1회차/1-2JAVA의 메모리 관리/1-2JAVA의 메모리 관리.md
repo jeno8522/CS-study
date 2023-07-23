@@ -9,7 +9,7 @@
 - heap 영역에 할당된 Object 타입의 데이터들의 참조를 위한 값
 - LIFO 의 직선형 구조 (stack)
 - JVM의 각각의 스레드는 1개의 스택을 가지고 모든 메소드를 트래킹한다.
-
+- Stack 영역은 메서드 호출과 관련된 정보들이 저장되는 메모리 영역, 각각의 스레드마다 별도의 Stack 영역이 존재하며, 메서드가 호출될 때마다 해당 메서드의 지역 변수, 매개변수, 리턴 값 등이 Stack에 저장.
 ## 2. Heap
 
 - 긴 생명주기의 데이터, 스레드의 갯수와 상관없이 heap은 하나
@@ -18,6 +18,9 @@
 - new 연산자를 통한 동적할당된 객체 저장
 - class를 선언할 때 class data는 heap에 저장, 주솟값을  stack에 저장
 - 참조하는 변수가 없다면 heap에서 삭제 (JVM의 가비지 컬렉션 GC 가 삭제)
+- 객체의 데이터(멤버 변수)는 Heap 영역에 저장됩니다.
+- 객체를 가리키는 레퍼런스 변수(참조 변수)는 Stack 영역에 저장됩니다.
+  
 
 ## 3. Static method area
 
@@ -59,3 +62,9 @@ tip) primitive type vs reference type
 5) old generation도 꽉차면 모든 객체들 검사해서 참조 안되는 객체 삭제, old generation영역의 메모리 회수 과정 (Major GC)
 
 이 때 모든 스레드는 작업을 멈추어 “stop-the-world”라고 함, 이 작업이 너무 잦을 시 프로그램 성능에 문제가 생김
+
+
+## 질문
+
+- heap 영역에 저장된 데이터의 라이프 사이클을  설명해주실 수 있나요?
+- java의 primitive type vs reference type 그리고 객체의 멤버변수, 주솟값등이 어디에 저장되는 지 설명해주세요

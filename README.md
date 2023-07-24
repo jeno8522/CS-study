@@ -27,7 +27,7 @@
 - [CS 주제 리스트](https://gyoogle.dev/blog/)
 - [가등 면접 질문 리스트](https://garden1500.tistory.com/11)
 - [민최 면접 질문 리스트](https://minchoi0912.tistory.com/93)
-- [정아마추어 면접 질문 리스트(Java Backend)]([https://d2.naver.com/home](https://jeong-pro.tistory.com/category/%EC%8B%A0%EC%9E%85%20%EA%B0%9C%EB%B0%9C%EC%9E%90%20%EB%A9%B4%EC%A0%91%20%EA%B8%B0%EC%B4%88))
+- [정아마추어 면접 질문 리스트(Java Backend)](https://jeong-pro.tistory.com/category/%EC%8B%A0%EC%9E%85%20%EA%B0%9C%EB%B0%9C%EC%9E%90%20%EB%A9%B4%EC%A0%91%20%EA%B8%B0%EC%B4%88)
 - [Naver D2](https://d2.naver.com/home)
 
 ## 2회차 미팅 (7 / 31) 🦔

@@ -30,9 +30,9 @@
 - [정아마추어 면접 질문 리스트(Java Backend)](https://jeong-pro.tistory.com/category/%EC%8B%A0%EC%9E%85%20%EA%B0%9C%EB%B0%9C%EC%9E%90%20%EB%A9%B4%EC%A0%91%20%EA%B8%B0%EC%B4%88)
 - [Naver D2](https://d2.naver.com/home)
 
-## 5회차 미팅 (8 / 21) 🦔
-### `JAVA` - 민최 질문 리스트 `Collection`
-1) Collection
+## 6회차 미팅 (9 / 21) 🦔
+### `DB` - `정규화`
+1) 테이블 정규화, 반정규화
 
 ## 타임 테이블 🐠
 
@@ -49,3 +49,5 @@
 - [2회차](https://github.com/jeno8522/CS-study/blob/main/%ED%94%BC%EB%93%9C%EB%B0%B1/JAVA/2%ED%9A%8C%EC%B0%A8.md)
 - [3회차]
 (https://github.com/jeno8522/CS-study/blob/main/%ED%94%BC%EB%93%9C%EB%B0%B1/JAVA/3%ED%9A%8C%EC%B0%A8.md)
+- [4회차](프로젝트 막주로 자율진행)
+- [5회차](https://github.com/jeno8522/CS-study/blob/main/%ED%94%BC%EB%93%9C%EB%B0%B1/JAVA/5%ED%9A%8C%EC%B0%A8.md)

@@ -30,7 +30,7 @@
 - [정아마추어 면접 질문 리스트(Java Backend)](https://jeong-pro.tistory.com/category/%EC%8B%A0%EC%9E%85%20%EA%B0%9C%EB%B0%9C%EC%9E%90%20%EB%A9%B4%EC%A0%91%20%EA%B8%B0%EC%B4%88)
 - [Naver D2](https://d2.naver.com/home)
 
-## 6회차 미팅 (9 / 21) 🦔
+## 6회차 미팅 (8 / 28) 🦔
 ### `DB` - `정규화`
 1) 테이블 정규화, 반정규화
 

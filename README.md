@@ -1,4 +1,4 @@
-# CS study 🦉
+⁹# CS study 🦉
 
 ## 규칙 🐉
 
@@ -44,6 +44,7 @@
 | 230814 | JAVA | 각자 선택한 주제|
 | 230821 | JAVA | Collection |
 | 230828 | DB | 정규화 |
+|230904|DB, JPA | DBCP, JPA |
 
 ## 미팅 기록 및 피드백 🦑
 - [1회차](https://github.com/jeno8522/CS-study/blob/main/%ED%94%BC%EB%93%9C%EB%B0%B1/JAVA/1%ED%9A%8C%EC%B0%A8.md)

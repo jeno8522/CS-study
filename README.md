@@ -52,3 +52,4 @@
 - [3회차](https://github.com/jeno8522/CS-study/blob/main/%ED%94%BC%EB%93%9C%EB%B0%B1/JAVA/3%ED%9A%8C%EC%B0%A8.md)
 - [4회차](프로젝트 막주로 자율진행)
 - [5회차](https://github.com/jeno8522/CS-study/blob/main/%ED%94%BC%EB%93%9C%EB%B0%B1/JAVA/5%ED%9A%8C%EC%B0%A8.md)
+- [6회차](https://github.com/jeno8522/CS-study/blob/main/%ED%94%BC%EB%93%9C%EB%B0%B1/JAVA/6%ED%9A%8C%EC%B0%A8.md)
